@@ -1,0 +1,22 @@
+===== Student Result Management System =====
+1. Add Student
+2. View All Students
+3. Save Data
+4. Exit
+
+Enter student name: Rohit
+Enter roll number: 101
+Enter marks for Maths: 85
+Enter marks for Science: 90
+Enter marks for English: 80
+
+Student added successfully!
+
+--------------------------------------
+Name: Rohit
+Roll No: 101
+Marks: {'Maths': 85, 'Science': 90, 'English': 80}
+Total: 255
+Average: 85.00
+Grade: A
+--------------------------------------
